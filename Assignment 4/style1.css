@@ -1,0 +1,23 @@
+.container {
+    border: 2px solid green;
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  img {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .contact {
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+  }
+  
